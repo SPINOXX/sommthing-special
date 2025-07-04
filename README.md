@@ -1,2 +1,4 @@
 # sommthing-special
-Discord-System
+
+Stay tuned 
+The best discord system bot SOON...
